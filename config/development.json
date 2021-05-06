@@ -1,0 +1,6 @@
+{
+  "name": "Test app - dev stage",
+  "mail": {
+    "host": "dev-mail-server"
+  }
+}
